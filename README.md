@@ -1,0 +1,2 @@
+# newsyntax
+NO SYNTAX error!
